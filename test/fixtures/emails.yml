@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  to: MyString
+  from: MyString
+  body: MyString
+  date: 2015-12-01 11:45:39
+  subject: MyString
+  starred: false
+
+two:
+  to: MyString
+  from: MyString
+  body: MyString
+  date: 2015-12-01 11:45:39
+  subject: MyString
+  starred: false

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company_representative: MyString
+  phone_number: MyString
+  summary: MyString
+  date: 2015-12-01 11:47:14
+  time_of_day: 2015-12-01 11:47:14
+
+two:
+  company_representative: MyString
+  phone_number: MyString
+  summary: MyString
+  date: 2015-12-01 11:47:14
+  time_of_day: 2015-12-01 11:47:14

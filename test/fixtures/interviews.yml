@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-12-01 11:45:17
+  interviewer: MyString
+  location: MyString
+  summary: MyString
+
+two:
+  date: 2015-12-01 11:45:17
+  interviewer: MyString
+  location: MyString
+  summary: MyString
